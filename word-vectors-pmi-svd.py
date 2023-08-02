@@ -1,9 +1,6 @@
 
 # https://www.kaggle.com/alexklibisz/simple-word-vectors-with-co-occurrence-pmi-and-svd
-
 # https://github.com/minimaxir/get-all-hacker-news-submissions-comments
-
-# https://www.kaggle.com/tootoolik
 
 
 from __future__ import print_function, division
